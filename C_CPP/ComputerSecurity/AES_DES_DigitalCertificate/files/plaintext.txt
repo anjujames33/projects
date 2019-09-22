@@ -1,0 +1,5 @@
+Name        : Anju K. James
+Banner ID   : 800711098
+Symmetric key cryptography algorithm used : aes-256-cbc
+aes-256-cbc is 256-bit AES used to encrypt information at the TOP SECRET level.
+'salt' adds more strength to the encryption.
