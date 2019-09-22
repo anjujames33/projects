@@ -1,0 +1,77 @@
+body {
+
+	background-image: url("bg.jpg");
+	background-repeat: no-repeat;
+	background-size: inherit;
+	color: #FFFFFF;
+}
+
+.btn {
+	margin-top: 2%;
+	margin-left: 2%;
+	background-color: #0088AA;
+	border: none;
+	width: auto;
+	color: white;
+	padding: 30px 70px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin-bottom: 2%;
+}
+
+.btn:hover {
+	background-color: #005566;
+}
+
+.title {
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.form {
+	width: inherit;
+}
+
+.singleinsertdiv {
+	width: inherit;
+	margin-top: 10%;
+	padding-left: 25%;
+	height: 25%;
+	background-color: #FFFFFF;
+}
+
+.minibtn {
+	margin-top: 2%;
+	margin-left: 2%;
+	background-color: transparent;//#0088AA;
+	border: none;
+	width: 10%;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin-bottom: 2%;
+}
+
+.combo {
+	width: 10%;
+	color: #000000;
+}
+.file {
+		margin-top: 2%;
+	margin-left: 2%;
+	background-color: transparent;//#0088AA;
+	border: none;
+	width: 17%;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin-bottom: 2%;
+	
+}
+

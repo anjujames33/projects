@@ -1,0 +1,6 @@
+1, seth faucette, green bay packers, RB, 379, 867, 45786536
+2, daryl moon, houston texans, QB, 30, 944, 43210404
+3, emmanuel butler, kansas city chiefs, QB, 400, 767, 30280179
+4, craig mitchell, chicago bears, WR, 207, 469, 16158868
+5, david laberge, miami dolphins, QB, 475, 335, 3033440
+6, ramon taylor, oakland raiders, RB, 350, 207, 31801263
